@@ -1,7 +1,7 @@
 {
   "name": "vuex-persistedstate_drill",
-  "version": "1.0.0",
-  "description": "My fantastic Nuxt.js project",
+  "version": "1.1.0",
+  "description": "生まれてから今日まで何日？",
   "author": "Mitsui",
   "private": true,
   "scripts": {
